@@ -1,18 +1,18 @@
 # Site settings
-title: "Paper Jekyll Theme"
-description: > 
-  Write a description of your website here.
+title: "Owen Schebella"
+description: 
+  Hi, I'm Owen, a product designer at Five9, working on conversational experiences and AI. Previously at Inference.
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Owen Schebella
+email: oschebell@gmail.com
+# twitter_username: _HairForceOne
+github_username: oschebell
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://owenschebella.com" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
-disqus_id:
+# google_analytics_id: UA-1111111111-1
+# disqus_id:
 
 # Build settings
 include: [_pages]

@@ -21,7 +21,13 @@
 }
 
 .c-page__footer {
-    margin-bottom: 10rem;
+
+    text-align: left;
+    left: 44px;
+    position: fixed;
+    bottom: 16px;
+
+    
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
